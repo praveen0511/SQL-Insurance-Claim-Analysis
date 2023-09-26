@@ -5,13 +5,13 @@
 
 **Data description**: Kaggle - https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health?select=insurance_data.csv
 
-**Performed the following queries :**
+**Performed the following queries:**
 
 **1.Show records of 'male' patient from 'southwest' region.**
 ![q1](https://github.com/praveen0511/SQL-Insurance-Claim-Analysis/assets/52094094/fd07adbf-79f6-43e5-96fc-7ce2c396c1f8)
 
 
-****2.Show all records having bmi in range 30 to 45 both inclusive.**
+**2.Show all records having bmi in range 30 to 45 both inclusive.**
 ![q2](https://github.com/praveen0511/SQL-Insurance-Claim-Analysis/assets/52094094/83374797-e97a-4760-b07d-a3016ae9701d)
 
 
